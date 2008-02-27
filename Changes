@@ -1,0 +1,15 @@
+Revision history for Perl HTML::TabWidget 0.27
+0.27
+        renamed to HTML::TabWidget
+
+0.26
+     - Overwrought Code.
+
+0.25
+        clean up Build system
+
+0.24
+       refactoring.
+0.01  Sun Jan 22 01:37:35 2006
+	- original version; created by h2xs 1.23 with options
+		-XAn  HTML::TabWidget
